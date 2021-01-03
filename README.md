@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on ...MOVIE APPLICATION
-⚡ Fun fact: ...I know it’s crazy, but I love to eat…
+- 🔭 I’m currently working on ...MOVIE APPLICATION
+- ⚡ Fun fact: ...I know it’s crazy, but I love to eat…
 
 <!--
 **sumitvarun/SUMITVARUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
