@@ -9,15 +9,7 @@
 
 - 🌱 I’m currently learning **FLUTTER**
 
-- 👨‍💻 All of my projects are available at [https://sumitvarun.github.io/portfolio/](https://sumitvarun.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://sumitvarun.github.io/portfolio/](https://sumitvarun.github.io/portfolio/)
-
 - 💬 Ask me about **CODE**
-
-- 📫 How to reach me **sumitvarun0781@gmail.com**
-
-- 📄 Know about my experiences [https://sumitvarun.github.io/portfolio/](https://sumitvarun.github.io/portfolio/)
 
 - ⚡ Fun fact **I know it’s crazy, but I love to eat…**
 
@@ -25,8 +17,6 @@
 <p align="left">
 <a href="https://codepen.io/@sumitvarun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@sumitvarun" height="30" width="40" /></a>
 <a href="https://dev.to/sumitvarun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sumitvarun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit-kumar-436a89129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumit-kumar-436a89129" height="30" width="40" /></a>
-<a href="https://instagram.com/sumitvarud0781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumitvarud0781" height="30" width="40" /></a>
 <a href="https://medium.com/@sumitvarun0781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sumitvarun0781" height="30" width="40" /></a>
 </p>
 
