@@ -1,4 +1,4 @@
-<h1 align="center">A Self-taught Programmer ☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1>
+<h1 align="center">A Self-taught Programmer <br>☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
