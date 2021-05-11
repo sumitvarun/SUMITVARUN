@@ -1,5 +1,6 @@
-<div class= "titletext"><h1 align="center">A Self-taught Programmer <br>☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1></div>
+<img src="https://user-images.githubusercontent.com/52107131/117852925-79569f00-b2a5-11eb-8e35-c45adb8100d8.png">
 
+<div class= "titletext"><h1 align="center">A Self-taught Programmer <br>☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sumitvarun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@sumitvarun" height="30" width="40" /></a>
