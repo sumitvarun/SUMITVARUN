@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/52107131/117852925-79569f00-b2a5-11eb-8e35-c45adb8100d8.png">
+<!--<img src="https://user-images.githubusercontent.com/52107131/117852925-79569f00-b2a5-11eb-8e35-c45adb8100d8.png">-->
+<!--banner-->
+<img src="https://user-images.githubusercontent.com/52107131/120120680-77a13c80-c1bc-11eb-85b2-deb7e28ab607.png" style="width: 100%;">
+<!--banner end here-->
 
 <!--<div class= "titletext"><h1 align="center">A Self-taught Programmer <br>☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1></div>-->
 <h3 align="left">Connect with me:</h3>
