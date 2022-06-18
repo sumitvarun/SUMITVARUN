@@ -16,9 +16,9 @@
 
 <div class = "vercelcard"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitvarun&show_icons=true&locale=en&layout=compact" alt="sumitvarun"  width="35%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitvarun&show_icons=true&locale=en" alt="sumitvarun" width="35%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitvarun&show_icons=true&locale=en" alt="sumitvarun" width="45%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitvarun&" alt="sumitvarun" width="35%" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitvarun&" alt="sumitvarun" width="45%" /></p></div>
 
 <!--
 **sumitvarun/SUMITVARUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
