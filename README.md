@@ -4,7 +4,7 @@
 <!--banner end here-->
 
 <!--<div class= "titletext"><h1 align="center">A Self-taught Programmer <br>☕🌬️ 🌊 ❄️ 🏔️ ☀️🌤️🌠🌌 🌈🌡️</h1></div>-->
-<mark>🚦 Currently working on extraterrestrial project</mark>
+<h3>🚦 Currently working on extraterrestrial project</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sumitvarun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@sumitvarun" height="30" width="40" /></a>
